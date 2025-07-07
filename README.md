@@ -18,7 +18,7 @@ Typemock Isolator is a powerful and flexible mocking framework designed to **tes
 
 Isolator lets you create **tests before design**, giving you full control over the behavior of any .NET code.
 
-📚 Learn more in our [full documentation](https://www.typemock.com/docs/?book=Isolator&page=introduction.htm)
+📚 Learn more in the online [documentation](https://www.typemock.com/docs/?book=Isolator&page=introduction.htm)
 
 ---
 
@@ -34,27 +34,20 @@ Examples/
 ```
 
 ---
-## Running Tests
+## Running Tests in Visual Studio
 
 🔍 How to Run the Examples
 To run these examples successfully, follow the steps below:
 
 ✅ Step 1: Install Typemock Isolator
-You must have Typemock Isolator installed on your machine with a valid license.
 
 🔗 [Installation Guide](https://www.typemock.com/docs/?book=Isolator&page=HtmlDocs/installingtypemockisolatorclient.htm)  
 
 Download the installer:
 👉 [Download Isolator](https://www.typemock.com/download-isolator/)
 
-✅ Step 2: Activate Your Typemock License
-You must activate your Typemock license before running tests.
 
-🔗 [Activation Guide](https://www.typemock.com/docs/?book=Isolator&page=HtmlDocs/step1activatingyourtypemocklicense.htm)
-
-You can activate it using the Typemock Configuration tool or inside the Typemock Extension menu inside Visual Studio.
-
-✅ Step 3: Open and Run Tests in Visual Studio
+✅ Step 2:
 Clone this repository:
 ```plaintext
 git clone https://github.com/typemock/Typemock-Isolator-Examples.git
@@ -68,30 +61,28 @@ CSharp/Typemock.Examples.sln
 For .NET Core / .NET 5+:
 CSharpCore/Typemock.Examples.Core.sln
 
-Build the solution.
+**Build the solution.**
 
+✅ Step 3: Open and Run Tests in Visual Studio
 Run the tests using Test Explorer or Typemock Smart Runner in Visual Studio.
 
+**Typemock Test Navigator**:
 
-✅ Optional Step: Run Tests from the Command Line
-You can also run tests using CLI tools with Typemock Isolator enabled:
+![image](https://github.com/user-attachments/assets/3464e6fc-916e-40e4-a9ce-f0ae6723b96a)
 
+**Visual Studio Test Explorer**:
+
+![image](https://github.com/user-attachments/assets/4d86828f-0c48-4dc5-b0b4-a49fe501b918)
+
+---
+## Advanced option: Running Tests from Command Line:
 
 ▶️ dotnet test
 ```plaintext
 %Installation_Dir%/BuildScripts/TMockRunner.exe dotnet test path/to/test.dll
 ```
-Typemock will automatically integrate with the test run as long as it is installed and licensed on the machine.
 
-▶️ vstest.console.exe (for .NET Framework)
-```plaintext
-%Installation_Dir%/BuildScripts/TMockRunner.exe "C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\Extensions\TestPlatform\vstest.console.exe" test.dll
-```
-TMockRunner.exe is Typemock’s wrapper to inject mocks into external runners.
-
-Adjust the path to vstest.console.exe as needed based on your Visual Studio version.
-
-More info:
+See more:
 🔗 [Running Tests with TMockRunner](https://www.typemock.com/docs/?book=Isolator&page=HtmlDocs%2Frunningtestsintmockrunner.htm)
 
 ---
