@@ -2,13 +2,13 @@
 
 Welcome to the official example repository for [Typemock Isolator](https://www.typemock.com/isolator/), the most powerful mocking framework for .NET.
 
-This repository contains real-world use cases and minimal examples that demonstrate how to use Typemock Isolator to write unit tests for hard-to-test code including static methods, private methods, sealed classes, legacy code, and more.
+This repository showcases official example projects for Typemock Isolator, the most powerful .NET mocking framework. It includes real-world and minimal examples that demonstrate how to unit test hard-to-mock .NET code, including static methods, sealed classes, legacy systems, and private members using Typemock’s advanced mocking engine.
 
 ---
 
 ## 🚀 About Typemock Isolator
 
-Typemock Isolator is a powerful and flexible mocking framework designed to **test legacy code without the need for refactoring**. It allows developers to isolate and control dependencies including the toughest ones like:
+Typemock Isolator is a powerful and flexible mocking framework designed to **test legacy code without the need for refactoring**. It allows developers to isolate and control dependencies, including the toughest ones like:
 
 - Static methods
 - Sealed classes
@@ -44,7 +44,7 @@ To run these examples successfully, follow the steps below:
 🔗 [Installation Guide](https://www.typemock.com/docs/?book=Isolator&page=HtmlDocs/installingtypemockisolatorclient.htm)  
 
 Download the installer:
-👉 [Download Isolator](https://www.typemock.com/download-isolator/)
+👉 [Download Isolator](https://www.typemock.com/download-isolator/?utm_source=github&utm_medium=readme&utm_campaign=isolator_examples)
 
 
 ✅ Step 2:
