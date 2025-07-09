@@ -18,7 +18,7 @@ Typemock Isolator is a powerful and flexible mocking framework designed to **tes
 
 Isolator lets you create **tests before design**, giving you full control over the behavior of any .NET code.
 
-📚 Learn more in the online [documentation](https://www.typemock.com/docs/?book=Isolator&page=introduction.htm/?utm_source=github&utm_medium=readme&utm_campaign=isolator_examples)
+📚 Learn more in the online [documentation](https://www.typemock.com/docs/?book=Isolator&page=HtmlDocs%2Funderstandingtypemockisolator.htm)
 
 ---
 
@@ -45,7 +45,7 @@ Download the installer:
 
 👉 [Download Isolator](https://www.typemock.com/download-isolator/?utm_source=github&utm_medium=readme&utm_campaign=isolator_examples)
 
-🔗 [Installation Guide](https://www.typemock.com/docs/?book=Isolator&page=HtmlDocs/installingtypemockisolatorclient.htm/?utm_source=github&utm_medium=readme&utm_campaign=isolator_examples)  
+🔗 [Installation Guide](https://www.typemock.com/docs/?book=Isolator&page=HtmlDocs/installingtypemockisolatorclient.htm)  
 
 
 ✅ Step 2:
@@ -84,6 +84,6 @@ Run the tests using Test Explorer or Typemock Smart Runner in Visual Studio.
 ```
 
 See more:
-🔗 [Running Tests with TMockRunner](https://www.typemock.com/docs/?book=Isolator&page=HtmlDocs%2Frunningtestsintmockrunner.htm/?utm_source=github&utm_medium=readme&utm_campaign=isolator_examples)
+🔗 [Running Tests with TMockRunner](https://www.typemock.com/docs/?book=Isolator&page=HtmlDocs%2Frunningtestsintmockrunner.htm)
 
 ---
