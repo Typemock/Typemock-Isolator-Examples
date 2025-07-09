@@ -1,6 +1,6 @@
 # Typemock Isolator .NET Examples
 
-Welcome to the official example repository for [Typemock Isolator](https://www.typemock.com/isolator/), the most powerful mocking framework for .NET.
+Welcome to the official example repository for [Typemock Isolator](https://www.typemock.com/isolator-product-page/?utm_source=github&utm_medium=readme&utm_campaign=isolator_examples), the most powerful mocking framework for .NET.
 
 This repository showcases official example projects for Typemock Isolator, the most powerful .NET mocking framework. It includes real-world and minimal examples that demonstrate how to unit test hard-to-mock .NET code, including static methods, sealed classes, legacy systems, and private members using Typemock’s advanced mocking engine.
 
@@ -18,7 +18,7 @@ Typemock Isolator is a powerful and flexible mocking framework designed to **tes
 
 Isolator lets you create **tests before design**, giving you full control over the behavior of any .NET code.
 
-📚 Learn more in the online [documentation](https://www.typemock.com/docs/?book=Isolator&page=introduction.htm)
+📚 Learn more in the online [documentation](https://www.typemock.com/docs/?book=Isolator&page=introduction.htm/?utm_source=github&utm_medium=readme&utm_campaign=isolator_examples)
 
 ---
 
@@ -41,10 +41,11 @@ To run these examples successfully, follow the steps below:
 
 ✅ Step 1: Install Typemock Isolator
 
-🔗 [Installation Guide](https://www.typemock.com/docs/?book=Isolator&page=HtmlDocs/installingtypemockisolatorclient.htm)  
-
 Download the installer:
+
 👉 [Download Isolator](https://www.typemock.com/download-isolator/?utm_source=github&utm_medium=readme&utm_campaign=isolator_examples)
+
+🔗 [Installation Guide](https://www.typemock.com/docs/?book=Isolator&page=HtmlDocs/installingtypemockisolatorclient.htm/?utm_source=github&utm_medium=readme&utm_campaign=isolator_examples)  
 
 
 ✅ Step 2:
@@ -83,6 +84,6 @@ Run the tests using Test Explorer or Typemock Smart Runner in Visual Studio.
 ```
 
 See more:
-🔗 [Running Tests with TMockRunner](https://www.typemock.com/docs/?book=Isolator&page=HtmlDocs%2Frunningtestsintmockrunner.htm)
+🔗 [Running Tests with TMockRunner](https://www.typemock.com/docs/?book=Isolator&page=HtmlDocs%2Frunningtestsintmockrunner.htm/?utm_source=github&utm_medium=readme&utm_campaign=isolator_examples)
 
 ---
