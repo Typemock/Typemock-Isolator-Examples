@@ -112,11 +112,9 @@
 	<ItemGroup>
 	<Reference Include="Typemock.ArrangeActAssert">
 		<SpecificVersion>False</SpecificVersion>
-		<HintPath>C:\Program Files (x86)\Typemock\Isolator\9.3\PublicAssemblies\Typemock.ArrangeActAssert.Dll</HintPath>
 	</Reference>
 	<Reference Include="TypeMock">
 		<SpecificVersion>False</SpecificVersion>
-		<HintPath>C:\Program Files (x86)\Typemock\Isolator\9.3\PublicAssemblies\TypeMock.Dll</HintPath>
 	</Reference>
 	</ItemGroup>
 
@@ -124,3 +122,4 @@
 
 
 </Project>
+
